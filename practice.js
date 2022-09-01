@@ -10,6 +10,7 @@
 
 // use _.each to create a copy of the given array.
 var moreFruits = function(fruits) {
+  //git test change
   var results = [];
 
   _.each(fruits, function(fruit, index, collection) {
